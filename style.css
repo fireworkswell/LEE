@@ -1,5 +1,7 @@
 h1{
   text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
 
 #menu{
@@ -21,11 +23,22 @@ a{
 
 iframe{
   text-align: center;
-  padding-left: 180px;
+  padding-right: 0px;
 }
 html { background: url(bg.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+p{
+  font-size:30px;
+  padding-left: 30px;
+  color:white;
+  text-align: center;
+}
+
+#daumRoughmapContainer1573462544282 {
+  padding-left: 450px;
 }
