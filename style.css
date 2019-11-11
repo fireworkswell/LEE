@@ -4,17 +4,28 @@ h1{
 
 #menu{
   display: grid;
-  grid-template-columns: 200px 1fr;
+  grid-template-columns: 230px 200px 190px;
   font-size: 20px;
+  color:white;
   text-align: left;
-  border-bottom:3px solid gray;
-  border-top:3px solid gray;
+  border-bottom:3px solid white;
+  border-top:3px solid white;
   margin:0;
   padding:20px;
   padding-left:150px;
 }
 
+a{
+  color:white;
+}
+
 iframe{
   text-align: center;
   padding-left: 180px;
+}
+html { background: url(bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
