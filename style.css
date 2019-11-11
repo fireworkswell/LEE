@@ -1,0 +1,20 @@
+h1{
+  text-align: center;
+}
+
+#menu{
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  font-size: 20px;
+  text-align: left;
+  border-bottom:3px solid gray;
+  border-top:3px solid gray;
+  margin:0;
+  padding:20px;
+  padding-left:150px;
+}
+
+iframe{
+  text-align: center;
+  padding-left: 180px;
+}
