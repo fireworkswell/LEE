@@ -32,13 +32,13 @@ html { background: url(bg.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
-p{
+#daumRoughmapContainer1573462544282{
   font-size:30px;
-  padding-left: 30px;
+  padding-left: 40px;
   color:white;
-  text-align: center;
+  text-align: left;
 }
 
-#daumRoughmapContainer1573462544282 {
-  padding-left: 450px;
+#clock{
+  padding-left: 650px;
 }
