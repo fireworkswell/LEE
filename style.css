@@ -1,6 +1,6 @@
 h1{
   text-align: center;
-  margin-top: 20px;
+  margin-top: 40px;
   margin-bottom: 30px;
 }
 body{
@@ -43,7 +43,7 @@ h2{
 
 table{
   background-color: grey;
-  margin-top: 10px;
+  margin-top: 30px;
   border-color: white;
   border:5px solid;
   text-align: center;
@@ -54,4 +54,11 @@ table{
 }
 th{
   font-size: 25px;
+}
+#Games img{
+  width: 200px;
+  height: 200px;
+}
+#Games{
+  padding-left: 200px;
 }
