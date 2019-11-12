@@ -38,7 +38,6 @@ html { background: url(bg.jpg) no-repeat center center fixed;
   color:white;
   text-align: left;
 }
-
-#clock{
-  padding-left: 650px;
+h2{
+  text-align: center;
 }
