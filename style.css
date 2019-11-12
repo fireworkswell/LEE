@@ -7,20 +7,15 @@ body{
   color:white;
 }
 #menu{
-  display: grid;
-  grid-template-columns: 230px 200px 190px 190px;
   font-size: 20px;
   color:white;
-  text-align: left;
-  border-bottom:3px solid white;
-  border-top:3px solid white;
   margin:0;
-  padding:20px;
-  padding-left:150px;
-}
+  text-align: center;
 
+}
 a{
   color:white;
+  text-decoration: none;
 }
 
 iframe{
@@ -47,6 +42,7 @@ h2{
 }
 
 table{
+  background-color: grey;
   margin-top: 10px;
   border-color: white;
   border:5px solid;
