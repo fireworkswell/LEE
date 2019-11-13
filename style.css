@@ -43,14 +43,17 @@ h2{
 
 table{
   background-color: grey;
-  margin-top: 30px;
   border-color: white;
   border:5px solid;
   text-align: center;
   position:absolute;
+  top:360px; left:35%;
+  margin-top:0px; margin-left:-100px;
+  width:200px; height:200px;
+  /* position:absolute;
   top:370px; left:35%;
   margin-top:-100px; margin-left:-100px;
-  width:200px; height:200px;
+  width:200px; height:200px; */
 }
 th{
   font-size: 25px;
