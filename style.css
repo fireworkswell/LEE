@@ -65,3 +65,10 @@ th{
 #Games{
   padding-left: 200px;
 }
+audio{
+  width:300px;
+  height:20px;
+  position: absolute;
+  right:10px;
+  top:15px;
+}
